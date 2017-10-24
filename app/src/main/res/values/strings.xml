@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqlLite Intro</string>
+    <string name="fname">First Name</string>
+    <string name="sname">Last Name</string>
+    <string name="marks">Score</string>
+    <string name="id">ID</string>
+    <string name="submit">Add Data</string>
+    <string name="view">View All</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
